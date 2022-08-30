@@ -1,4 +1,4 @@
-# Citibike Tripdata
+# Citibike Trip Data
 
 ## Overview
 * This analysis was performed to see if Des Moines is a good place for a bike-sharing program.
