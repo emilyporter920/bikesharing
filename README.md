@@ -4,7 +4,7 @@
 * This analysis was performed to see if Des Moines is a good place for a bike-sharing program.
 
 ## Link to Dashboard
-* To access please click <a href="https://public.tableau.com/app/profile/emily.porter7135" target="_blank">here</a>.
+* To access please click <a href="https://public.tableau.com/app/profile/emily.porter7135/viz/CitiBikeData_16611989237510/NYCCitiBike" target="_blank">here</a>.
 
 ## Results
 * Checkout times.
